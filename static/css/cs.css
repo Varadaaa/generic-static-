@@ -1,0 +1,12 @@
+h1
+{
+    color: black;
+    background-color: skyblue;
+}
+
+body
+{
+    background-color: skyblue;
+    background: linear-gradient (rgb(116,216,237));
+}
+     
